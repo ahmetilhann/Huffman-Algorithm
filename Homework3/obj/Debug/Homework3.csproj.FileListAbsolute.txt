@@ -1,0 +1,6 @@
+c:\users\ahmet\documents\visual studio 2012\Projects\Homework3\Homework3\bin\Debug\Homework3.exe.config
+c:\users\ahmet\documents\visual studio 2012\Projects\Homework3\Homework3\bin\Debug\Homework3.exe
+c:\users\ahmet\documents\visual studio 2012\Projects\Homework3\Homework3\bin\Debug\Homework3.pdb
+c:\users\ahmet\documents\visual studio 2012\Projects\Homework3\Homework3\obj\Debug\Homework3.exe
+c:\users\ahmet\documents\visual studio 2012\Projects\Homework3\Homework3\obj\Debug\Homework3.pdb
+C:\Users\Ahmet\documents\visual studio 2012\Projects\Homework3\Homework3\obj\Debug\Homework3.csprojResolveAssemblyReference.cache
